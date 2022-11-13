@@ -2,56 +2,67 @@
   {
     "name": "Spider-Man: No Way Home",
     "genre": [0, 1, 2],
+    "year": 2021,
     "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/spider-man-no-way-home_ciym9etx_480x.progressive.jpg?v=1648653154"
   },
   {
     "name": "Avengers: Endgame",
     "genre": [0, 1, 2],
+    "year": 2019,
     "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/36c52ba5356bdab8a4084f004c2203a4_0a3d52a0-86c2-4eaa-9fda-94c015e9fa80_480x.progressive.jpg?v=1573653950"
   },
   {
     "name": "Hotel Transylvania 3",
     "genre": [0, 3, 2, 4, 5, 6],
+    "year": 2018,
     "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/cd39e0d6fd08dce0631182239f6ae21d_ae20c014-1ef2-4c18-aa82-e33bb17e138f_480x.progressive.jpg?v=1573588753"
   },
   {
     "name": "Black Panther",
     "genre": [0, 1, 2],
+    "year": 2018,
     "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/black-panther-wakanda-forever_kd6hwzh8_480x.progressive.jpg?v=1667841489"
   },
   {
-    "name": "Mummy",
+    "name": "The Mummy",
     "genre": [0, 1, 2, 6],
+    "year": 2017,
     "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/b6bb822ecf88ca130ba1ce51a94d5a83_55e79521-0d20-41a6-b7a7-b070a89d484d_480x.progressive.jpg?v=1573613920"
   },
   {
     "name": "Cars 2",
     "genre": [0, 3, 2, 4, 5],
+    "year": 2011,
     "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/0d39383468a348c28f9a6ebabbc93fb1_3b29c480-4276-4495-a4ca-0da24f600193_480x.progressive.jpg?v=1573653673"
   },
   {
     "name": "Batman V Superman",
     "genre": [0, 1, 2],
+    "year": 2016,
     "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/a35c7d1268e3329b6e34efd38bbb79d3_0eacdb34-2d06-49db-9406-ab75f823cd0a_480x.progressive.jpg?v=1573587302"
   },
   {
     "name": "Sonic the Hedgehog 2",
     "genre": [0, 1, 2, 4, 5],
+    "year": 2022,
     "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/sonichedgehog2_480x.progressive.jpg?v=1640966602"
   },
   {
     "name": "Annabelle: Creation",
     "genre": [0, 6],
+    "year": 2017,
     "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/e8c7023ed53428e7d7cd05ea6e6ef64f_e70dd2e2-71eb-4dc0-9fd3-a9424d72b38a_480x.progressive.jpg?v=1573652605"
   },
   {
     "name": "Black Adam",
     "genre": [0, 1, 2],
+    "year": 2022,
     "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/black-adam_lqpowhhj_480x.progressive.jpg?v=1665763408"
   },
   {
     "name": "Moon Knight",
     "genre": [0, 1, 2],
+    "year": 2022,
     "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/moon-knight_xgjz7xk2_480x.progressive.jpg?v=1659728949"
   }
 ]
